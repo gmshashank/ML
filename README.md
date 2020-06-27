@@ -1,15 +1,18 @@
 # ML
 
-Overview
+Overview:
 
 
 
-Goal
+Goal:
 
 
-Links
+Links:
 -http://course18.fast.ai/ml.html
 
-Credits
+Notes:
+-https://medium.com/@hiromi_suenaga/machine-learning-1-lesson-4-a536f333b20d
+
+Credits:
 Jeremey Howard
 Fastai
